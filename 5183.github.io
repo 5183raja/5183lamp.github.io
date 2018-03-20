@@ -33,7 +33,7 @@
 <H1 STYLE="font-size: 40px; font-family: sans-serif; color: #FFFFFF; background: #336699; text-align: center;">light switch</H1>
 
 <button class="button">Button</button>
-
+<button class="button">Button</button>
 
 </body>
 </html>
